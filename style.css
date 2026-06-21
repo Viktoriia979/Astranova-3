@@ -1,0 +1,67 @@
+.link-header{
+  text-align:center;
+  color:white;
+  border: solid 3px #8935DE;
+  border-radius:6px;
+  background-color: #8935DE;
+}
+
+header{
+  background-color: #0C1250;
+}
+
+header a{
+  color: white;
+  padding: 10px;
+}
+
+.SmallText{
+  color:white;
+  text-align: center;
+  font-size: 30px;
+}
+
+.Home{
+  background-color:#8935DE;
+  border-radius: 6px;
+  border: solid 3px #8935DE;
+  text-align: center;
+}
+
+h1{
+  text-decoration: underline;
+  
+}
+
+h3 {
+  background-color:rgb(148, 149, 217)  ;
+  text-align: center;
+}
+
+h2{
+  text-decoration: underline;
+  background-color:rgb(108, 110, 215) ;
+  
+}
+
+img{
+  height: 300px;
+}
+
+p{
+  text-align: center;
+}
+
+footer{
+  background-color: #0C1250;
+}
+
+footer a{
+  color: white;
+  font-size: 20px;
+  padding: 10px;
+}
+
+footer p{
+  text-align: center;
+}
